@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.initialModel.resources
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.Cache

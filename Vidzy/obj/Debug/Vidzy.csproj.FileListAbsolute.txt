@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Vidzy\bin\Debug\Vidzy.exe.config
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Vidzy\bin\Debug\Vidzy.exe
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Vidzy\bin\Debug\Vidzy.pdb
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Vidzy\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Vidzy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Vidzy\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Vidzy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Vidzy\obj\Debug\Vidzy.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Vidzy\obj\Debug\Vidzy.exe
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Vidzy\obj\Debug\Vidzy.pdb
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Vidzy\obj\Debug\Vidzy.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Vidzy\obj\Debug\Vidzy.Migrations.InitialModel.resources
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Vidzy\obj\Debug\Vidzy.csproj.GenerateResource.Cache

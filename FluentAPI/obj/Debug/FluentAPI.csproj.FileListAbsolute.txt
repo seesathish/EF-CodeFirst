@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\FluentAPI\bin\Debug\FluentAPI.exe.config
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\FluentAPI\bin\Debug\FluentAPI.exe
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\FluentAPI\bin\Debug\FluentAPI.pdb
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\FluentAPI\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\FluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\FluentAPI\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\FluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\FluentAPI\obj\Debug\FluentAPI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\FluentAPI\obj\Debug\FluentAPI.exe
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\FluentAPI\obj\Debug\FluentAPI.pdb
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\FluentAPI\obj\Debug\FluentAPI.Migrations.initialmodel.resources
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\FluentAPI\obj\Debug\FluentAPI.csproj.GenerateResource.Cache

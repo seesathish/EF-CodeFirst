@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Queries\bin\Release\Queries.exe.config
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Queries\bin\Release\Queries.exe
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Queries\bin\Release\Queries.pdb
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Queries\bin\Release\EntityFramework.dll
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Queries\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Queries\bin\Release\EntityFramework.xml
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Queries\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Queries\obj\Release\Queries.Migrations.InitialMigration.resources
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Queries\obj\Release\Queries.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Queries\obj\Release\Queries.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Queries\obj\Release\Queries.exe
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\Queries\obj\Release\Queries.pdb

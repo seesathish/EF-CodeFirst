@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\DataAnnotations\bin\Debug\DataAnnotations.exe.config
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\DataAnnotations\bin\Debug\DataAnnotations.exe
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\DataAnnotations\bin\Debug\DataAnnotations.pdb
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\DataAnnotations\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\DataAnnotations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\DataAnnotations\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\DataAnnotations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\DataAnnotations\obj\Debug\DataAnnotations.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\DataAnnotations\obj\Debug\DataAnnotations.exe
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\DataAnnotations\obj\Debug\DataAnnotations.pdb
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\DataAnnotations\obj\Debug\DataAnnotations.Migrations.initialmodel.resources
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\DataAnnotations\obj\Debug\DataAnnotations.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\DataAnnotations\obj\Debug\DataAnnotations.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\DataAnnotations\obj\Debug\DataAnnotations.Migrations.AddAnnotationsToCourseTable.resources
+C:\Users\admin\Desktop\SatPractice\EnityFramework\CodeFirst\DataAnnotations\obj\Debug\DataAnnotations.Migrations.FixAuthorIdNotnull.resources
